@@ -7,6 +7,8 @@ public class RestApiTest {
 	@Test
 	public void getAPI() {
 		System.out.println("getAPI");
+		System.out.println("getAPI2");
+		System.out.println("getAPI3");
 	}
 	
 	@Test
